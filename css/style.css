@@ -1,0 +1,46 @@
+nav {
+    text-align: center;
+    background-color: grey;
+    display: block-inline;
+    color: white;
+
+}
+
+nav > a{ 
+    font-size: xx-large;
+    padding-right: 1em;
+}
+a:hover{
+    color: chocolate;
+}
+#container > img{
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    background-image: url('../images/marsRover.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    z-index: 4;
+}
+.header > h1{
+    padding-top: 5%;
+    color: aqua;
+}
+header > img{
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 1;
+}
+
+article{
+    width: 66%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+}
