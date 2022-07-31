@@ -36,9 +36,22 @@ header > img{
 
 article{
     width: 66%;
-    margin: 0 auto;
     text-align: center;
-    background-color: blueviolet;
+    float: left
+}
+
+.twitter{
+    width: 200px;
+}
+
+aside{
+    float: right;
+    width: 33%;
+    display: block;
+    background-color: aqua;
+}
+aside > a{
+    width: 100%;
 }
 
 h1{
