@@ -108,3 +108,23 @@ footer a{
     color: white;
     text-decoration: none;
 }
+
+#middleContent{
+    color: white;
+    text-align: center;
+    width: 80%;
+    min-width: 80%;
+    margin: 0 auto;
+}
+
+#middleContent{
+    font-size: larger;
+}
+
+.content{
+    color: white;
+}
+
+.content > iframe{
+    height: 40vh
+}
