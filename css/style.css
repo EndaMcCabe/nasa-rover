@@ -47,7 +47,7 @@ article{
     float: left
 }
 
-footer > div{
+.footerItems{
     width: 33;
     display: inline-block;
     overflow: scroll;
@@ -83,4 +83,15 @@ footer{
 
 #logo > img{
     width: 100%;
+}
+
+.contentItems{
+    border-radius: 15%;
+    border-style: groove;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.contentItems > p{
+    font-size: larger;
 }
