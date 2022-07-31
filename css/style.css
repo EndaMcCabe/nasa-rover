@@ -1,9 +1,9 @@
 body{
-    background-color: lightgrey;
+    background-color: black;
 }
 nav {
     text-align: center;
-    background-color: grey;
+    background-color: black;
     display: block-inline;
     color: white;
 
@@ -29,12 +29,8 @@ a:hover{
     width: 100%;
     background-color: aqua;
 }
-.header > h1{
-    padding-top: 5%;
-    color: aqua;
-}
 
-.header > img{
+.logo > img{
     width: 25%;
     height: 70%;
     padding-top: 10vh;
@@ -50,7 +46,10 @@ article{
 .footerItems{
     width: 33;
     display: inline-block;
-    overflow: scroll;
+    padding: 20px;
+    text-align: center;
+    background-color: darkblue;
+    width: 100%;
 }
 
 
@@ -72,6 +71,8 @@ h1{
 
 footer{
     display: block;
+    color: white;
+    position: relative;
 }
 
 #logo{
@@ -86,12 +87,24 @@ footer{
 }
 
 .contentItems{
-    border-radius: 15%;
+    border-radius: 15% 25%;
     border-style: groove;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
+    background-image: url('../images/backgroundSpace.jpg');
+    overflow: hidden;
+    color: white;
 }
 
-.contentItems > p{
+.contentItems p,ul{
     font-size: larger;
+}
+
+.contentItems  ul{
+    list-style-type: none;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
 }
