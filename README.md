@@ -30,7 +30,7 @@ I decided for a simple use of #00C9C8 as the background color for the footer in 
 <h1>Features</h1>
 
 <h2>Navigation bar</h2>
-<img src="images/nav.png">
+<img src="images/nav.png" alt="Picture of the nav bar on every page">
 <ul>
     <li>This is featured on every page and uses a consistent design across every page</li>
     <li>The links seen on the navigation bar are the Home, About, History and Landing links</li>
@@ -38,7 +38,7 @@ I decided for a simple use of #00C9C8 as the background color for the footer in 
 </ul>
 
 <h2>NASA Twitter Feed</h2>
-<img src="images/twitterFeed.png">
+<img src="images/twitterFeed.png" alt="Picture of the NASA twitter feed embedded onto the home page">
 <ul>
     <li>This is featured on the home page of the website</li>
     <li>This has a dark theme to mimic the feel of the website</li>
@@ -46,14 +46,14 @@ I decided for a simple use of #00C9C8 as the background color for the footer in 
 </ul>
 
 <h2>Youtube Video</h2>
-<img src="images/ytVid.png">
+<img src="images/ytVid.png" alt="Picture of a mars rover youtube video">
 <ul>
     <li>This is featured on the Landing page.</li>
     <li>This shows the user some content on the Mars Rover</li>
 </ul>
 
 <h2>Footer</h2>
-<img src="images/footer.png">
+<img src="images/footer.png" alt="Picture of the footer on every page">
 <ul>
     <li>Our footer includes a link to real NASA website if the user would be interested in looking up for more information on anything else that NASA does</li>
     <li>This is featured on every page.</li>
@@ -84,6 +84,7 @@ Validated HTML and css from the w3c validators for them and errors did not show 
 
 Github Pages was used to deploy this website
 
+<img src="images/githubPage.png" alt="Picture of the page that shows how to deploy the website">
 <ol>
     <li>Click "Settings" tab in the Github respository</li>
     <li>Click "Pages" on the left hand side</li>
@@ -92,3 +93,10 @@ Github Pages was used to deploy this website
     <li>After this the website should be deployed</li>
 </ol>
 
+<h1>Creating a local clone of the Project</h1>
+
+if you would like to clone my project i will give you the git command on how to do so
+
+<ul>
+    <li>git clone https://github.com/EndaMcCabe/nasa-rover.git</li>
+</ul>
