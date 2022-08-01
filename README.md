@@ -19,8 +19,39 @@ As the end User, I would like to be able to:
 </ul>
 
 <h1>Colour Scheme</h1>
-<img src="">
+<img src="images/CPallete.png">
 
-For the colour scheme I went for a 
-<h2>Pages</h2>
-Home Page
+For the colour scheme I went to <a href="https://mycolor.space/">https://mycolor.space/</a> in preparation of this project.
+
+A black theme was chosen for this website as I believed it would suit the theme of NASA and space. Then I chose the Twisted Spot Palette as the generated gradient to made by the mycolor.
+
+I decided for a simple use of #00C9C8 as the background color for header and footer in this project. For the anchor links I used #47817F as I believe it had a nice look on the eyes when moving to different webpages. I decided against using #BFFCF9 as the main text color and stayed with using white instead as it seemed to take away from the feel of the website.
+
+<h1>Features</h1>
+
+<h2>Navigation bar</h2>
+<ul>
+    <li>This is featured on every page and uses a consistent design across every page</li>
+    <li>The links seen on the navigation bar are the Home, About, History and Landing links</li>
+    <li>The logo of NASA is seen to the left of the links</li>
+</ul>
+
+<h2>NASA Twitter Feed</h2>
+
+<ul>
+    <li>This is featured on the home page of the website</li>
+    <li>This has a dark theme to mimic the feel of the website</li>
+    <li>This is updated everytime that NASA tweets</li>
+</ul>
+
+<h2>Youtube Video</h2>
+<ul>
+    <li>This is featured on the Landing page.</li>
+    <li>This shows the user some content on the Mars Rover</li>
+</ul>
+
+<h2>Footer</h2>
+<ul>
+    <li>Our footer includes a link to real NASA website if the user would be interested in looking up for more information on anything else that NASA does</li>
+    <li>This is featured on every page.</li>
+</ul>
