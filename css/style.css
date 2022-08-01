@@ -33,7 +33,6 @@ img{
     height: 70%;
     padding-top: 1vh;
     padding-left: 2vw;
-    float: left;
 }
 
 article{
@@ -134,4 +133,9 @@ footer a{
 
 table ul{
     list-style-type: none;
+}
+
+.contentImage{
+        height: 20rem;
+        width: auto;
 }
